@@ -1,0 +1,6 @@
+
+* Netlist
+V1 a 0 100V
+R1 a b 10
+R2 b 0 10
+
